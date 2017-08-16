@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Linkedin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Portfolio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-weight="normal" font-family="FontAwesome" letter-spacing="4.32870436" font-size="25" opacity="0.5">
+        <g id="Footer" transform="translate(-593.000000, -501.000000)" fill="#4F4D4D">
+            <g transform="translate(101.000000, 449.000000)" id="social">
+                <g transform="translate(0.000000, 50.301320)">
+                    <g id="Linkedin" transform="translate(490.000000, 0.000000)">
+                        <text id="LinkedIn">
+                            <tspan x="2.57119343" y="21.1891753"></tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
